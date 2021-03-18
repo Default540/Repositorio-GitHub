@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: deepskyblue;
+    /* text-decoration: underline; adiciona ____ nas palavras*/
+}
+h1{
+    color: black;
+}
+h2{
+    color: darkblue;
+}

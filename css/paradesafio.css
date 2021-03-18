@@ -1,0 +1,27 @@
+body{
+background: rgb(33, 33, 228);
+font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+select#tabela{
+    width: 150px;
+}
+section{
+    background: white;
+    border-radius: 10px; /*arredonda as pontas da area*/
+    padding: 20px;
+    width: 500px; /*define o tamanho*/
+    margin: auto; /*centraliza a margem*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.487);
+}
+footer{
+    color: white;
+    text-align: center; /*coloca o texto no centro*/
+    font-style: italic;
+}
