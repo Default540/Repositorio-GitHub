@@ -50,4 +50,4 @@ comando `window.document.getElementById()`
 
 ola 👍 🖖 
 
-acesse o site [link](https://default540.github.io/Repositorio-GitHub/teste1.html)
+acesse o site [https://default540.github.io/Repositorio-GitHub/teste1.html](https://default540.github.io/Repositorio-GitHub/teste1.html)
